@@ -3,9 +3,13 @@
 - 🌱 I’m currently learning React, German, Majoring in Software Analysis and Development.
 
 - 📫 How to reach me:
+- 
 luiggibellincanta@gmail.com
+
 https://luiggiannes.me/
+
 https://twitter.com/LuiggiAnnes
+
 https://www.linkedin.com/in/luiggi-annes-bellincanta-dev/
 
 <!---
