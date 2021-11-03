@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luiggidev
 - 👀 I’am interested in Climbing, chess, languages, sci-fi and science
-- 🌱 I’m currently learning React, German, Majoring in Software Analysis and Development.
+- 🌱 CurrentlyMajoring in Software Analysis and Development.
+- 📚 Learning German, React and NodeJS.
 
 - 📫 How to reach me: luiggibellincanta@gmail.com
 
