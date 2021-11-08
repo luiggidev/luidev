@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @luiggidev a Frontend Web Developer.
+
 - 👀 I’am interested in Climbing, chess, languages, sci-fi and science.
 - 🌱 Currently Majoring in Software Analysis and Development.
 - 📚 Learning German and React.
