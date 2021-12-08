@@ -2,7 +2,7 @@
 
 - 👀 I’am interested in Climbing, chess, languages, sci-fi and science.
 - 🌱 Currently Majoring in Software Analysis and Development.
-- 📚 Learning German and React.
+- 📚 Learning German, React and NodeJS.
 
 - 📫 How to reach me: luiggibellincanta@gmail.com
 
