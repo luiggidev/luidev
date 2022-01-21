@@ -3,6 +3,7 @@
 - 👀 I’am interested in Climbing, chess, languages, sci-fi and science.
 - 🌱 Currently Majoring in Software Analysis and Development.
 - 📚 Learning German, React and NodeJS.
+- 🇩🇪 Moving to Berlin in April :)
 
 - 📫 How to reach me: luiggibellincanta@gmail.com
 
