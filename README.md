@@ -3,7 +3,7 @@
 
 - 👨‍💻 Hi, I’m Luiggi a Frontend Developer | JS, React, HTML, CSS, WP, NodeJS
 <br></br>
-- 👀 I’am interested in Climbing, chess, languages, veganism, sci-fi and science.
+- 👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.
 - 🏫 Currently Majoring in Software Analysis and Development.
 <br></br>
 - :globe_with_meridians: Moving to Berlin in April.
