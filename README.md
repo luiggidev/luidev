@@ -3,14 +3,14 @@
 
 - 👨‍💻 Hi, I’m @luiggidev a Frontend Developer ( JS, React, HTML, CSS, WP, NodeJS )
 <br></br>
-- 👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.
 - 🏫 Currently Majoring in Software Analysis and Development.
+- 👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.
 <br></br>
 - :globe_with_meridians: Moving to Berlin in April.
 - 👔 Looking for a ReactJS position
 <br></br>
 - 📫 How to reach me: luiggibellincanta@gmail.com
-
+- ⚛️ Portfolio page: [luiggibellincanta.netlify.app](https://luiggibellincanta.netlify.app/)
 <!---
 luiggidev/luiggidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
