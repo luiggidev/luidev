@@ -7,6 +7,7 @@
 - 🌱 Currently Majoring in Software Analysis and Development.
 <br></br>
 - :globe_with_meridians: Moving to Berlin in April.
+- 👔 Looking for a ReactJS position
 - 📫 How to reach me: luiggibellincanta@gmail.com
 
 <!---
