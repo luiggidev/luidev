@@ -8,6 +8,7 @@
 <br></br>
 - :globe_with_meridians: Moving to Berlin in April.
 - 👔 Looking for a ReactJS position
+<br></br>
 - 📫 How to reach me: luiggibellincanta@gmail.com
 
 <!---
