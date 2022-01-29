@@ -1,15 +1,18 @@
 <img align="right" height="250px" src="https://user-images.githubusercontent.com/65421097/151588521-42310c46-cca7-4c12-a9f8-5d2271d6f4ee.png" />
+<ul><li>👨‍💻 Hi, I’m @luiggidev a Frontend Developer ( JS, React, HTML, CSS, WP, NodeJS ) </li></ul>
+<ul>
+  <li>🏫 Currently Majoring in Software Analysis and Development.</li>
+  <li>👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.</li></ul>
+<ul>
+  <li>:globe_with_meridians: Moving to Berlin in April.</li>
+  <li>👔 Looking for a ReactJS position</li>
 
-- 👨‍💻 Hi, I’m @luiggidev a Frontend Developer ( JS, React, HTML, CSS, WP, NodeJS )
-<br></br>
-- 🏫 Currently Majoring in Software Analysis and Development.
-- 👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.
-<br></br>
-- :globe_with_meridians: Moving to Berlin in April.
-- 👔 Looking for a ReactJS position
-<br></br>
-- ⚛️ Portfolio page: [luiggibellincanta.netlify.app](https://luiggibellincanta.netlify.app/)
-<br></br>
+<p align="right">🐶💖</p>
+
+<li>⚛️ Portfolio page: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">luiggibellincanta.netlify.app</a></li>
+</ul>
+
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
