@@ -4,8 +4,7 @@
   <li>🏫 Currently Majoring in Software Analysis and Development.</li>
   <li>👀 I’am interested in Climbing, hiking, chess, languages, sci-fi and science.</li></ul>
 <ul>
-  <li>:globe_with_meridians: Moving to Berlin in April.</li>
-  <li>👔 Looking for a ReactJS position</li>
+  <li>:globe_with_meridians: Moving to Berlin in March.</li>
 
 <p align="right">🐶💖</p>
 
